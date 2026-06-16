@@ -1,5 +1,7 @@
 <Solution>
+  <Project Path="Ex094/Ex094.csproj" Id="64290108-582b-47c7-88bc-32d11dc57fe2" />
   <Project Path="Ex111/Ex111.csproj" />
+  <Project Path="Ex89/Ex89.csproj" Id="ecb8d42c-7754-4a9c-be9b-df561c1e576f" />
   <Project Path="ExemploMenu/ExemploMenu.csproj" />
   <Project Path="SolucaoProva/SolucaoProva.csproj" Id="7c50c57f-551e-483e-9de8-086c62fbb8bb" />
 </Solution>
